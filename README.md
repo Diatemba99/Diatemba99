@@ -1,5 +1,5 @@
 ### Hi there i'm Diatemba99 👋
-# [Diatemba](https://github.com/Diatemba99/Diatemba99/blob/main/banner.jpg)
+# ![banner](https://user-images.githubusercontent.com/58808297/103879785-33f44c00-50d0-11eb-8a7e-56e2e4048368.jpg)
 
 
 **Diatemba99/Diatemba99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
