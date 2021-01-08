@@ -7,7 +7,7 @@
 <!--
 Ceci est un commentaire pour faire des commentaires sur le readme de github
 -->
-
+- **My favorite tools <3 **
 ##
 <table>
   <tbody>
@@ -44,7 +44,29 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
       </td>
       <td width="25%" align="center">
         <span><b>Angular</b></span><br><br><br>
-
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+      </td>
+    </tr>
+    <tr style="background-color: #fff;">
+      <td width="25%" align="center">
+        <span><b>Sass/Scss</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Bootstrap</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Tailwind</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Bulma</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bulma.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 ##
 
 Here are some ideas to get you started:
