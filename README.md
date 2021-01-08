@@ -4,6 +4,48 @@
 ## 
 **Diatemba99/Diatemba99**
 ##
+<!--
+Ceci est un commentaire pour faire des commentaires sur le readme de github
+-->
+
+##
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>Vue.js</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Nuxt</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nuxt-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Laravel</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Ruby on Rails</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rails.svg">
+      </td>
+    </tr>
+    <tr style="background-color: #fff;">
+      <td width="25%" align="center">
+        <span><b>React Native</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Expo</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/expo.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Electron</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/electron.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Angular</b></span><br><br><br>
+
+##
 
 Here are some ideas to get you started:
 
