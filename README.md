@@ -14,9 +14,7 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
     <tr valign="top">
       <td width="25%" align="center">
         <span><b>Vue.js</b></span><br><br><br>
-        <marquee direction="right">
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-        </marquee>
       </td>
       <td width="25%" align="center">
         <span><b>Nuxt</b></span><br><br><br>
