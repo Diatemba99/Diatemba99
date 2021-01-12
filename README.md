@@ -1,18 +1,10 @@
-### Hi there i'm Diatemba99 👋
+## Hi there i'm Diatemba99 👋
 # ![banner](https://user-images.githubusercontent.com/58808297/103879785-33f44c00-50d0-11eb-8a7e-56e2e4048368.jpg)
 
-## 
-
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/Diatemba99/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=1849174)
-##
 <!--
 Ceci est un commentaire pour faire des commentaires sur le readme de github
 -->
 ## My  favorites tools
-##
 <table>
         <tbody>
           <tr valign="top">
