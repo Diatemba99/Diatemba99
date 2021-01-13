@@ -1,10 +1,10 @@
-## Hi there i'm Diatemba99 👋
+## Hi there i'm 🤝 Diatemba99 🤝
 # ![banner](https://user-images.githubusercontent.com/58808297/103879785-33f44c00-50d0-11eb-8a7e-56e2e4048368.jpg)
 
 <!--
 Ceci est un commentaire pour faire des commentaires sur le readme de github
 -->
-## My  favorites tools
+## My  favorites 💻 Tools 💻 
 <table>
         <tbody>
           <tr valign="top">
@@ -74,6 +74,7 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
    
 ##
 
-Here are some ideas to get you started:
+🤩 Here are some ideas to get you started 🤩:
 
 - 🔭 I’m currently working on many projets
+
