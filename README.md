@@ -82,8 +82,4 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
 
 ## Contact me
 
-<span witdh="5%"> ![mail](https://user-images.githubusercontent.com/58808297/103879790-35257900-50d0-11eb-8513-314d0df37ac8.png) </span>
-<span witdh="5%"> ![linkedin](https://user-images.githubusercontent.com/58808297/103879793-35be0f80-50d0-11eb-932a-3e295aab0be5.png)</span>
-<span witdh="5%"> ![site](https://user-images.githubusercontent.com/58808297/103879794-3656a600-50d0-11eb-9b24-f7e750b6cd6b.png)</span>
-
 
