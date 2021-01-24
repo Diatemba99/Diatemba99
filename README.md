@@ -85,5 +85,5 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
 | [<img src="https://cdn.svgporn.com/logos/linkedin.svg" alt="Facebook logo" width="32">](https://sn.linkedin.com/in/martin-claude-diatta-a23ab5196) 
 | [<img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="" width="30">](https://dev.to/diatemba99) 
 | [<img src="https://github.com/Diatemba99/Diatemba99/blob/main/Gmail.svg" alt="Gmail logo" height="32">](mailto:diatemba11@gmail.com)
-|:---:|:---:|:---:|
+
 
