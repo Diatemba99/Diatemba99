@@ -78,7 +78,8 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
 
 ##
 
-- 🔭 I’m currently working on many projets
+- 🔭 I’m Pythonista
+- 💰 I'm Freelance
 
 ## 📫📫 Contact me ☎☎
 
