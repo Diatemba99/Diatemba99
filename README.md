@@ -77,6 +77,7 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
 - 🔭 I’m Pythonista
 - 💰 I'm Freelance
 - 🎨 I'm graphic Designer
+##
 
 ## 📫📫 Contact me ☎☎
 
