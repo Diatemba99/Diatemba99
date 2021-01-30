@@ -74,10 +74,6 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
    
 ##
 
-🤩 Here are some ideas to get you started 🤩:
-
-##
-
 - 🔭 I’m Pythonista
 - 💰 I'm Freelance
 - 🎨 I'm graphic Designer
