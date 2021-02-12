@@ -52,9 +52,9 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
                 </marquee>
             </td>
             <td width="25%" align="center">
-              <span><b>Prestashop</b></span><br><br><br>
+              <span><b>Debian</b></span><br><br><br>
                 <marquee behavior="" direction="right">
-                    <img height="64px" src="https://cdn.svgporn.com/logos/prestashop.svg">
+                    <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
                 </marquee>
             </td>
             <td width="25%" align="center">
