@@ -58,9 +58,9 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
                 </marquee>
             </td>
             <td width="25%" align="center">
-              <span><b>Wordpress</b></span><br><br><br>
+              <span><b>Centos</b></span><br><br><br>
               <marquee behavior="" direction="right">
-                    <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
+                    <img height="64px" src="https://cdn.svgporn.com/logos/centos-icon.svg">
               </marquee>
             </td>
             <td width="25%" align="center">
