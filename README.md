@@ -28,8 +28,8 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
           </tr>
           <tr style="background-color: #fff;">
             <td width="25%" align="center">
-              <span><b>Symfony</b></span><br><br><br>
-              <img height="64px" src="https://cdn.svgporn.com/logos/symfony.svg">
+              <span><b>Wordpress</b></span><br><br><br>
+              <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
             </td>
             <td width="25%" align="center">
               <span><b>Bootstrap</b></span><br><br><br>
