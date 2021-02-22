@@ -48,7 +48,7 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
             <td width="25%" align="center">
               <span><b>Wix</b></span><br><br><br>
                 <marquee behavior="" direction="right">
-                    <img height="64px" src="https://cdn.svgporn.com/logos/wix.svg">
+                    <img height="64px" src="https://cdn.svgporn.com/logos/asana.svg">
                 </marquee>
             </td>
             <td width="25%" align="center">
