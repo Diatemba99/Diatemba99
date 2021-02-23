@@ -46,7 +46,7 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
           </tr>
           <tr style="background-color: #fff;">
             <td width="25%" align="center">
-              <span><b>Wix</b></span><br><br><br>
+              <span><b>Asana</b></span><br><br><br>
                 <marquee behavior="" direction="right">
                     <img height="64px" src="https://cdn.svgporn.com/logos/asana.svg">
                 </marquee>
