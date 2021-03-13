@@ -52,7 +52,6 @@
             <td width="25%" align="center">
               <span><b>Debian</b></span><br><br><br>
                 <marquee behavior="" direction="right">
-                    <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
                 </marquee>
             </td>
         </tbody>
