@@ -50,7 +50,6 @@
                 </marquee>
             </td>
             <td width="25%" align="center">
-              <span><b>Debian</b></span><br><br><br>
                 <marquee behavior="" direction="right">
                 </marquee>
             </td>
