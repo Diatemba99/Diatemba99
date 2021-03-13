@@ -55,15 +55,8 @@
                     <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
                 </marquee>
             </td>
-            <td width="25%" align="center">
-              <span><b>Centos</b></span><br><br><br>
-              <marquee behavior="" direction="right">
-              </marquee>
-            </td>
-           
-          </tr>
         </tbody>
-      </table>
+ </table>
    
 ##
 
