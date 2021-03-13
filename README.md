@@ -49,10 +49,6 @@
                     <img height="64px" src="https://cdn.svgporn.com/logos/asana.svg">
                 </marquee>
             </td>
-            <td width="25%" align="center">
-                <marquee behavior="" direction="right">
-                </marquee>
-            </td>
         </tbody>
  </table>
    
