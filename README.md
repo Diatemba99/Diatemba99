@@ -46,7 +46,6 @@
             <td width="25%" align="center">
               <span><b>Asana</b></span><br><br><br>
                 <marquee behavior="" direction="right">
-                    <img height="64px" src="https://cdn.svgporn.com/logos/asana.svg">
                 </marquee>
             </td>
         </tbody>
