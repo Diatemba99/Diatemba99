@@ -44,7 +44,6 @@
           </tr>
           <tr style="background-color: #fff;">
             <td width="25%" align="center">
-              <span><b>Asana</b></span><br><br><br>
                 <marquee behavior="" direction="right">
                 </marquee>
             </td>
