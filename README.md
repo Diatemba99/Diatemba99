@@ -66,7 +66,6 @@ Ceci est un commentaire pour faire des commentaires sur le readme de github
             <td width="25%" align="center">
               <span><b>Ubuntu</b></span><br><br><br>
               <marquee behavior="" direction="right">
-                    <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
               </marquee>
             </td>
           </tr>
