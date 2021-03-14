@@ -2,7 +2,7 @@
 # ![banner](https://user-images.githubusercontent.com/58808297/103879785-33f44c00-50d0-11eb-8a7e-56e2e4048368.jpg)
 # <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDiatemba99&count_bg=%2379C83D&title_bg=%23302C2C&icon=gofundme.svg&icon_color=%231F909A&title=COUNTER&edge_flat=false"/></a>
 
-<!---
+<!--- Comment most used Language
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diatemba99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!-- Ceci est un commentaire pour faire des commentaires sur le readme de github -->
