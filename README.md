@@ -52,7 +52,7 @@
 - 💰 I'm Freelance
 - 🎨 I'm graphic Designer
 ##
-<img src="https://github-readme-stats.vercel.app/api?username=diatemba99&show_icons=true&theme=tokyonight&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=diatemba99&show_icons=true&theme=algolia&count_private=true">
 
 ## 📫📫 Contact me ☎☎
 
