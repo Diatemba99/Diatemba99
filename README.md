@@ -48,7 +48,7 @@
             </td>
             <td width="25%" align="center">
               <span><b>Angular</b></span><br><br><br>
-              <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+              <img height="64px" src="https://cdn.svgporn.com/logos/ionic.svg">
             </td>
           </tr>
           <tr style="background-color: #fff;">
