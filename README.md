@@ -1,6 +1,6 @@
 ## Hi there i'm 🤝 Diatemba99 🤝
 
--  I’m Pythonista
+- 🐍🐍 I’m Pythonista
 - 💰 I'm Freelance
 - 🎨 I'm graphic Designer
 #
@@ -43,8 +43,8 @@
               <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
             </td>
             <td width="25%" align="center">
-              <span><b>Node.js</b></span><br><br><br>
-              <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+              <span><b>Android</b></span><br><br><br>
+              <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
             </td>
             <td width="25%" align="center">
               <span><b>Angular</b></span><br><br><br>
