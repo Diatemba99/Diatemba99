@@ -1,6 +1,6 @@
 ## Hi there i'm 🤝 Diatemba99 🤝
 
-- 🐍🐍 I’m Pythonista
+- 🐍 I’m Pythonista
 - 💰 I'm Freelance
 - 🎨 I'm graphic Designer
 #
