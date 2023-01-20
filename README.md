@@ -24,15 +24,8 @@
               <span><b>Javascript</b></span><br><br><br>
               <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
             </td>
-            <td width="25%" align="center">
-              <span><b>Java</b></span><br><br><br>
-              <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-            </td>
-            <td width="25%" align="center">
-              <span><b>C sharp</b></span><br><br><br>
-              <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-            </td>
           </tr>
+                
           <tr style="background-color: #fff;">
             <td width="25%" align="center">
               <span><b>Wordpress</b></span><br><br><br>
@@ -45,10 +38,6 @@
             <td width="25%" align="center">
               <span><b>Bulma</b></span><br><br><br>
               <img height="64px" src="https://cdn.svgporn.com/logos/bulma.svg">
-            </td>
-            <td width="25%" align="center">
-              <span><b>Ionic</b></span><br><br><br>
-              <img height="64px" src="https://cdn.svgporn.com/logos/ionic.svg">
             </td>
           </tr>
           <tr style="background-color: #fff;">
