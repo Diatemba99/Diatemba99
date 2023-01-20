@@ -11,11 +11,8 @@
 <!--- Comment most used Language
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diatemba99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<!-- Ceci est un commentaire pour faire des commentaires sur le readme de github -->
-## My  favorites 💻 Tools 🛠🛠 
-
    
-##
+## STATS
 <img src="https://github-readme-stats.vercel.app/api?username=diatemba99&show_icons=true&theme=algolia&count_private=true">
 
 ## 📫📫 Contact me ☎☎
