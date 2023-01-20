@@ -13,36 +13,7 @@
 -->
 <!-- Ceci est un commentaire pour faire des commentaires sur le readme de github -->
 ## My  favorites 💻 Tools 🛠🛠 
-<table>
-        <tbody>
-          <tr valign="top">
-            <td width="25%" align="center">
-              <span><b>Python</b></span><br><br><br>
-              <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-            </td>
-            <td width="25%" align="center">
-              <span><b>Javascript</b></span><br><br><br>
-              <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-            </td>
-          </tr>
-                
-          <tr style="background-color: #fff;">
-            <td width="25%" align="center">
-              <span><b>Wordpress</b></span><br><br><br>
-              <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
-            </td>
-            <td width="25%" align="center">
-              <span><b>Bootstrap</b></span><br><br><br>
-              <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-            </td>
-            <td width="25%" align="center">
-              <span><b>Bulma</b></span><br><br><br>
-              <img height="64px" src="https://cdn.svgporn.com/logos/bulma.svg">
-            </td>
-          </tr>
-          <tr style="background-color: #fff;">
-        </tbody>
- </table>
+
    
 ##
 <img src="https://github-readme-stats.vercel.app/api?username=diatemba99&show_icons=true&theme=algolia&count_private=true">
